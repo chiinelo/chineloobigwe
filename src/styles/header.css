@@ -1,0 +1,17 @@
+/* HEADER */
+.profile-pic {
+    width: 100%;
+    height: auto;
+  }
+  .header-text {
+    font-family: "Harmattan", sans-serif;
+    font-size: 400;
+    align-items: center;
+  }
+  /* .profile-image {
+    padding-left: 17vw;
+  } */
+  .header-title {
+    font-family: "Yellowtail", cursive;
+    font-size: 60px;
+  }
